@@ -9,7 +9,6 @@ What do you need:
 2. A working arduino studio installation
 3. A USB-c cable to hook to your computer and the M5 device (most M5 devices come with one, but this one doesn't)
 4. Arduino configured to work with the M5 Atom
-5. The "" library installed within Arduino
 
 
 How to load the code onto the device:
@@ -26,7 +25,7 @@ How do you use the device:
 
 1. First, factory reset your Festool remote (hold the "man" and "pairing" buttons together until a solid blue light appears. 
 2. Plug in the M5 Atom socket, and while doing that hold down the top button. You should see a flashing blue light.
-3. Hold down the "pairing" button on remote. If done correctly, the light on the M5 Atom socket should turn off. 
+3. Hold down the "pairing" button on remote. If done correctly, the light on the M5 Atom socket should turn off, and you should here the relay click. 
 4. Press the "man" button to exit pairing. 
 
 That's it. 
